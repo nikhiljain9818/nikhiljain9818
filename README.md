@@ -23,8 +23,8 @@
 
 <p align="center">
 <a href="https://twitter.com/@nikhilj76624589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@nikhilj76624589" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ nikhil-jain-110948121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/ nikhil-jain-110948121" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nikhil-jain-110948121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/ nikhil-jain-110948121" height="30" width="30" /></a>
 <a href="https://kaggle.com/nikhiljain9818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nikhiljain9818" height="30" width="30" /></a>
-<a href="https://fb.com/nikhiljain555@rediffmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nikhiljain555@rediffmail.com" height="30" width="30" /></a>
+<a href="https://www.facebook.com/nikhil.jian.96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nikhiljain555@rediffmail.com" height="30" width="30" /></a>
 <a href="https://instagram.com/nikhiljain555@rediffmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nikhiljain555@rediffmail.com" height="30" width="30" /></a>
 </p>
