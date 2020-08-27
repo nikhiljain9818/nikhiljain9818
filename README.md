@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Jain</h1>
-<h3 align="center">A passionate Web Developer / Data Scientist(Learner) from India</h3>
+<h3 align="center">A passionate Front-End Developer / Data Scientist(Learner) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljain9818" alt="nikhiljain9818" /> </p>
 
