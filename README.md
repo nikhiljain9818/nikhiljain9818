@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljain9818" alt="nikhiljain9818" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Exploratory Data Analysis(EDA)**
 
 - 🌱 I’m currently learning **Machine Learning**
 
